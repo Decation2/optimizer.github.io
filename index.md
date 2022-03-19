@@ -1,6 +1,6 @@
 ## Welcome to winoptimizer
 
-You can use the winoptimizer (https://github.com/Decation2/winoptimizer.github.io/edit/gh-pages/index.md) to optimize your windows
+You can use the winoptimizer https://github.com/Decation2/Winoptimizer to optimize your windows
 
 # Why winoptimizer?
 
