@@ -6,11 +6,6 @@ You can use the winoptimizer (https://github.com/Decation2/winoptimizer.github.i
 
 Winoptimizer lightweight,open-source,safe to use
 
-# Header 1
-## Header 2
-### Header 3
-#### Header 4
-
 ### Support or Contact
 
 Having trouble with winoptimizer? Contact vitalyi281peromename@gmail.com 
