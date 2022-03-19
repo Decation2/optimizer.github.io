@@ -1,4 +1,4 @@
-## Welcome to winoptimizer
+## Welcome to the winoptimizer
 
 You can use the winoptimizer https://github.com/Decation2/Winoptimizer to optimize your windows
 
