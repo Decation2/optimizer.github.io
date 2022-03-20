@@ -4,7 +4,7 @@ You can use the winoptimizer https://github.com/Decation2/Winoptimizer to optimi
 
 # Why winoptimizer?
 
-Winoptimizer lightweight,open-source,safe to use
+Winoptimizer lightweight,open-source,safe to use and free!
 
 # Support or Contact
 
