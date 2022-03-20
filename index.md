@@ -15,6 +15,4 @@ Contact in this email vitalyi281peromename@gmail.com
 
 # So why not?
 
-Get good perfomance with winoptimizer today! 
-
-                                                      ###Made with love by Decation2                                                    
+Get good perfomance with winoptimizer today!
