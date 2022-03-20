@@ -4,7 +4,8 @@ You can use the winoptimizer https://github.com/Decation2/Winoptimizer to optimi
 
 # Why winoptimizer?
 
-Winoptimizer lightweight,open-source,safe to use and free! And we update our soft to make your windows more faster like an flash!
+Winoptimizer lightweight,open-source,safe to use and free!
+And we update our soft to make your windows more faster like an flash!
 
 # Support or Contact
 
