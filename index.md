@@ -10,7 +10,7 @@ We are good software!
 
 # Support or Contact
 
-Having problem with our program?
+Have problem with our program?
 Contact in this email vitalyi281peromename@gmail.com 
 
 # So why not?
