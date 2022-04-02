@@ -1,11 +1,5 @@
 ## Welcome to the winoptimizer
-<head>
-<title>Winoptimizer</title>
-   <meta charset="UTF-8">
-<meta name="description" content="This field contains information about your page. It is usually around two sentences long.">.
-<meta name="author" content="Conor Sheils">
-</header>
-
+<h1>Winoptimizer and faq</h1>
 You can use the winoptimizer to optimize your windows <a href="https://github.com/Decation2/Winoptimizer">
    <input type="button" value="Visit winoptimizer" />
 </a>
