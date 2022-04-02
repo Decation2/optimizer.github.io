@@ -1,5 +1,5 @@
-## Welcome to the winoptimizer
 <img src=”(https://avatars.githubusercontent.com/u/88938287?v=4)”>
+## Welcome to the winoptimizer
 
 <h1>Winoptimizer and faq</h1>
 
