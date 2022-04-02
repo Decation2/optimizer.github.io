@@ -1,7 +1,3 @@
-<a href="https://avatars.githubusercontent.com/u/88938287?v=4">
-   <input type="img" value="Good program for optimize your computer" />
-</a>
-
 ## Welcome to the winoptimizer
 
 <h1>Winoptimizer and faq</h1>
