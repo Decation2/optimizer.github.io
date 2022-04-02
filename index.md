@@ -1,8 +1,9 @@
 ## Welcome to the winoptimizer
 
 You can use the winoptimizer to optimize your windows <a href="https://github.com/Decation2/Winoptimizer">
-   <button>Visit Winoptimizer</button>
+   <input type="button" value="Visit winoptimizer" />
 </a>
+
 
 ## Why winoptimizer?
 
