@@ -1,5 +1,3 @@
-<title>Winoptimizer</title>
-
 ## Welcome to the winoptimizer
 
 You can use the winoptimizer to optimize your windows <a href="https://github.com/Decation2/Winoptimizer">
