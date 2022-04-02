@@ -1,4 +1,6 @@
 ## Welcome to the winoptimizer
+<img src=”(https://avatars.githubusercontent.com/u/88938287?v=4)”>
+
 <h1>Winoptimizer and faq</h1>
 
 You can use the winoptimizer to optimize your windows <a href="https://github.com/Decation2/Winoptimizer">
