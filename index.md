@@ -2,7 +2,7 @@
 
 <h1>Winoptimizer and faq</h1>
 
-You can use the winoptimizer to optimize your windows <a href="https://github.com/Decation2/Winoptimizer/releases/">
+You can use the winoptimizer to optimize your windows <a href="https://github.com/Decation2/Winoptimizer/releases">
    <input type="button" value="Visit winoptimizer" />
 </a>
 
